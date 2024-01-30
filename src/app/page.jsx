@@ -50,7 +50,6 @@ export default function Home() {
       }
     }, 1000);
   };
-  console.log(output);
   return (
     <div className="container mx-auto mt-5 flex justify-center flex-col gap-5">
       <h1 className="text-6xl font-medium text-center font-sans">
